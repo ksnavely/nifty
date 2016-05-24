@@ -1,5 +1,5 @@
--module(hello)
--export([start/0, hello/0])
+-module(hello).
+-export([start/0, hello/0]).
 
 start() ->
     erlang:load_nif("./hello", 0).
