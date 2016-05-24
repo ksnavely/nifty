@@ -1,2 +1,3 @@
 # nifty
+
 Erlang NIF practice
