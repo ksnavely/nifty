@@ -1,0 +1,2 @@
+# nifty
+Erlang NIF practice
